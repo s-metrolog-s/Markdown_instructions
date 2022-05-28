@@ -34,3 +34,6 @@
 ## Цитаты
 
 ## Заключение
+
+Более подробное описание команд и синтаксис языка можно посмотреть по ссылке:
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference
